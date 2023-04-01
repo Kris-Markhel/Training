@@ -1,2 +1,5 @@
 pwd
 mkdir
+cd ..
+cd
+clear
