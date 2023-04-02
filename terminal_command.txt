@@ -3,3 +3,8 @@ mkdir
 cd ..
 cd
 clear
+history
+date
+mv
+cp
+vim
